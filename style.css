@@ -1,0 +1,13 @@
+.Header{
+    width: 100%;
+}
+.Header button{
+    float: right;
+}
+.Header h3{
+    display: inline;
+}
+.butn{
+        border: 1px solid white;
+        
+}
